@@ -1,37 +1,51 @@
-[
-  {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
-  }
+[{
+        "icon": "Compass",
+        "name": "起始页",
+        "link": "https://akams.cn/"
+    },
+    {
+        "icon": "Blog",
+        "name": "博客",
+        "link": "https://blog.akams.cn/"
+    },
+    {
+        "icon": "Cloud",
+        "name": "网盘",
+        "link": "https://pan.akams.cn/"
+    },
+    {
+        "icon": "CompactDisc",
+        "name": "音乐",
+        "link": "https://app.akams.cn/music/"
+    },
+    {
+        "icon": "Book",
+        "name": "KMS",
+        "link": "https://app.akams.cn/kms/"
+    },
+    {
+        "icon": "Book",
+        "name": "ip查询",
+        "link": "https://app.akams.cn/ip/"
+    },
+    {
+        "icon": "Book",
+        "name": "ip-check",
+        "link": "https://app.akams.cn/ip-check/"
+    },
+    {
+        "icon": "Book",
+        "name": "web-check",
+        "link": "https://app.akams.cn/web-check/"
+    },
+    {
+        "icon": "LaptopCode",
+        "name": "站点监测",
+        "link": "https://status.akams.cn/"
+    },
+    {
+        "icon": "LaptopCode",
+        "name": "网站统计",
+        "link": "https://statistics.akams.cn/"
+    }
 ]
